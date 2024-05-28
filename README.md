@@ -2,6 +2,7 @@
 
 Stock Tracker, kullanıcıların favori hisse senetlerini takip etmelerini sağlayan bir web sitesidir. Kullanıcılar sisteme kayıt olabilir, giriş yapabilir ve favori hisse senetlerini ekleyerek bu hisselerin güncel fiyatlarını takip edebilirler.
 - [Sitenin Linki](http://95.130.171.20/~st22360859001)
+- [Sitenin Video Demonstrasyonu](https://youtu.be/ygE4Wh6p7HQ)
 
 ## Özellikler
 
