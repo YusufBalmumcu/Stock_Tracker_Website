@@ -46,11 +46,11 @@ Stock Tracker, kullanıcıların favori hisse senetlerini takip etmelerini sağl
     ```
 
 4. Alpha Vantage API anahtarınızı `api_key.php` dosyasına ekleyin:
-Yüklediğiniz kodda API key mevcut olacaktır ama bedava sürüm olduğundan kullanımı sayılı olacaktır eğer hata alırsanız kodaki API key i aşağıdaki alternatiflerle değiştirebilirsiniz
-LSXDZ3DHHR13Q9U1
-HXQJN8FLSFBLMEA7
-042AM3BVG41NZJQ8
-YY44U9U9MXQHZBW2
+- Yüklediğiniz kodda API key mevcut olacaktır ama bedava sürüm olduğundan kullanımı sayılı olacaktır eğer hata alırsanız kodaki API key i aşağıdaki alternatiflerle değiştirebilirsiniz
+- LSXDZ3DHHR13Q9U1
+- HXQJN8FLSFBLMEA7
+- 042AM3BVG41NZJQ8
+- YY44U9U9MXQHZBW2
 
    ```php
     <?php
