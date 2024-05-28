@@ -74,10 +74,13 @@ YY44U9U9MXQHZBW2
 
 ## Proje Yapısı
 
-- `index.php`: Ana sayfa, kullanıcı kayıt ve giriş linkleri
-- `signup.php`: Kullanıcı kayıt sayfası
-- `login.php`: Kullanıcı giriş sayfası
-- `add.php`: Favori hisse ekleme işlemleri
-- `list.php`: Kullanıcının favori hisselerini listeleyen sayfa
-- `config.php`: Veritabanı bağlantı ayarları
-- `api_key.php`: Alpha Vantage API anahtarını tutan dosya
+- `index.php`: Ana sayfa, kullanıcı kayıt ve giriş linklerini barındıran sayfadır
+- `signup.php`: Kullanıcı kayıt sayfasıdır
+- `signedup.php`: Kullanıcının kaydını işleyen sayfadır
+- `login.php`: Kullanıcı giriş sayfasıdır
+- `add.php`: Favori hisse ekleme işlemlerini barındıran sayfadır
+- `list.php`: Kullanıcının favori hisselerini listeleyen sayfadır
+- `exit.php`: Kullanıcının çıkış yapmasını sağlayan sayfadır
+- `process.php`: Kullanıcının kayıt olma verilerini işleyen sayfadır
+- `users.sql`: Veri tabanını kurmak için kullanacağınız sql komutlarını barındırır
+
